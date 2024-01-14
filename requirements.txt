@@ -1,0 +1,7 @@
+python-decouple
+speechrecognition
+py3-tts
+openai
+disutils
+pipwin
+pyaudio
